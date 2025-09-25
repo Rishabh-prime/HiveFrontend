@@ -1,17 +1,22 @@
-# React + Vite
+# Twitter Clone (Work in Progress)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **Twitter-like social platform** built for learning and skill polishing.  
+The project is focused on clean code, scalability, and delivering a smooth user experience.  
 
-Currently, two official plugins are available:
+## 📌 Project Status
+Currently in development — expected timeline: **2–3 months**  
+Regular updates will be pushed here as progress continues.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Goals
+- Practice and polish frontend & backend skills  
+- Focus on writing clean, maintainable code  
+- Recreate a real-world application with attention to detail  
 
-## React Compiler
+## 🚀 Progress
+- [ ] Project setup  
+- [ ] Authentication  
+- [ ] Core features  
+- [ ] Profile & interactions  
+- [ ] UI/UX polish  
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# HiveFrontend
+Stay tuned for updates! ✨  
